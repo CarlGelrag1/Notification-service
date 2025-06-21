@@ -14,10 +14,15 @@
 
 ## 🧩 目录结构
 ├── README.md # 项目说明文件 
+
 ├── app.py # Flask 主程序入口，提供 Web API 接收通知请求 
+
 ├── config.py # 配置文件，包含钉钉 Token 和服务器端口等信息 
+
 ├── dingtalk_bot.py # 钉钉机器人核心逻辑封装类 
+
 ├── testat.py # 测试脚本，用于测试 @人 功能 
+
 ---
 
 ## ⚙️ 技术栈
